@@ -12,8 +12,8 @@ def using_unshift(array, string)
     neighborhoods_in_northwest_brooklyn.unshift(new_neighborhood)
 end
 
-def using_pop
-  
+def using_pop(array)
+  array.pop
 end
 
 def shift_with_args
